@@ -34,5 +34,5 @@ Some features are implemented, some are partial, and some menu options are still
 
 ## Notes
 
-- The database path is currently hardcoded in the source files.
+- The project uses the local SQLite file `Test-DB`.
 - Some menu options are not finished yet.

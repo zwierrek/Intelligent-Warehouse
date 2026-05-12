@@ -3,7 +3,7 @@ import java.util.*;
 
 public class GetID {
 
-    static final String DB_URL = "jdbc:sqlite:D:\\Pulpit\\Intelligent Warehouse\\Intelligent Warehouse.db";
+    static final String DB_URL = "jdbc:sqlite:Test-DB";
 
     public static int[] idArray;
 

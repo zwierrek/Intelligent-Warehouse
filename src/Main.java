@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Main {
 
-    private static final String DB_URL = "jdbc:sqlite:D:\\Pulpit\\Intelligent Warehouse\\Intelligent Warehouse.db";
+    private static final String DB_URL = "jdbc:sqlite:Test-DB";
 
     public static void main(String[] args) throws SQLException, IOException {
         Scanner input = new Scanner(System.in);

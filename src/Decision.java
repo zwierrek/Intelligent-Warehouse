@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Decision {
 
-    static final String DB_URL = "jdbc:sqlite:D:\\Pulpit\\Intelligent Warehouse\\Intelligent Warehouse.db";
+    static final String DB_URL = "jdbc:sqlite:Test-DB";
 
     public static void main(int decide) throws SQLException, IOException {
         Scanner input = new Scanner(System.in);
