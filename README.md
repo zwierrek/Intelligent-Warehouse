@@ -34,5 +34,5 @@ Some features are implemented, some are partial, and some menu options are still
 
 ## Notes
 
-- The project uses the local SQLite file `Test-DB`.
+- The project uses the local SQLite file, you can create Db by `scheam.sql`.
 - Some menu options are not finished yet.
